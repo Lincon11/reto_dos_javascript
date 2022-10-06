@@ -1,0 +1,23 @@
+{
+  "name": "reto_dos_javascript_abraham",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lincon11/reto_dos_javascript_abraham.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lincon11/reto_dos_javascript_abraham/issues"
+  },
+  "homepage": "https://github.com/Lincon11/reto_dos_javascript_abraham#readme",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  }
+}
